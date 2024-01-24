@@ -1,5 +1,5 @@
 replicaCount: 1
-app_name: helm-nginx
+app_name: helm-nginx-2
 namespace: default
 image:
   repository: nginx
