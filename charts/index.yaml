@@ -2,12 +2,12 @@ apiVersion: v1
 entries:
   nginx-helm:
   - apiVersion: v2
-    created: "2024-01-24T13:45:47.559803467+06:00"
+    created: "2024-01-24T13:57:37.155103331+06:00"
     description: A Helm chart for Kubernetes
     digest: ab09cf175b2b32b31cba45b56923e7852dbad61c8a33a2bcd1d85345709795ad
     name: nginx-helm
     type: application
     urls:
-    - charts/nginx-helm-0.0.1.tgz
+    - nginx-helm-0.0.1.tgz
     version: 0.0.1
-generated: "2024-01-24T13:45:47.559373936+06:00"
+generated: "2024-01-24T13:57:37.153491243+06:00"
