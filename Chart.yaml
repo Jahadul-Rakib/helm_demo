@@ -5,7 +5,3 @@ description: A Helm chart for Kubernetes
 type: application
 # This is the chart version. This version number should be incremented each time you make changes
 version: 0.0.1
-dependencies:
-  - name: nginx-helm
-    version: 0.0.1
-    repository: https://github.com/Jahadul-Rakib/helm_demo/tree/master/charts
