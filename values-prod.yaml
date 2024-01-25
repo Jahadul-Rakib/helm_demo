@@ -1,0 +1,6 @@
+replicaCount: 1
+app_name: helm-nginx-prod
+namespace: default
+image:
+  repository: nginx
+  pullPolicy: IfNotPresent
