@@ -1,6 +1,6 @@
 replicaCount: 1
 app_name: helm-nginx-prod
-namespace: default
+namespace: test-rb
 image:
   repository: nginx
   pullPolicy: IfNotPresent
